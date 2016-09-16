@@ -1,0 +1,4 @@
+baseurl = "http://blog.abhinav.ca/"
+title = "sqldump"
+languageCode = "en-us"
+theme = "base16"

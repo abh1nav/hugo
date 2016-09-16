@@ -1,0 +1,51 @@
+a {
+  text-decoration: none;
+}
+
+.article-list article, article.single section {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem; 
+}
+
+article.single blockquote {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
+article.single h1.headline {
+  padding-top: 1rem;
+  font-size: 2rem;
+}
+
+article.single section.body {
+  padding-top: 2rem;
+}
+
+article.single pre {
+  margin-bottom: 0.5rem;
+}
+
+article.single p code {
+  padding: 0 0.25rem 0 0.25rem;
+}
+
+article.single img {
+  width: 100%;
+}
+
+h1.site-title {
+  margin-top: 0;
+}
+
+header a.path {
+  color: #cc99cc !important;
+  text-decoration: none !important;
+}
+
+.article-list article .meta .val, .article-list article .meta .val a {
+  color: #747369;
+}
